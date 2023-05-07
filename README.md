@@ -7,9 +7,14 @@ With an intuitive interface and efficient data management capabilities, the Scho
 
 Key Features:
 
-User Roles: The system provides two main roles, students and teachers, allowing each user type to access role-specific functionalities.
-User Registration: Users can easily register their roles within the system, enabling them to utilize its features efficiently.
-Data Management: Perform essential operations such as data retrieval, insertion, modification, and deletion, ensuring accurate and up-to-date information within the system.
-Seamless Interface: The CLI interface provides a straightforward and user-friendly experience, simplifying interactions and reducing the learning curve.
-Secure Data Storage: Utilizing the power of SQL Alchemy, the system ensures reliable and protected data storage, maintaining data integrity and confidentiality.
+  @User Roles: The system provides two main roles, students and teachers, allowing each user type to access role-specific functionalities.
+  
+  @User Registration: Users can easily register their roles within the system, enabling them to utilize its features efficiently.
+  
+  @Data Management: Perform essential operations such as data retrieval, insertion, modification, and deletion, ensuring accurate and up-to-date information within the    system.
+  
+  @Seamless Interface: The CLI interface provides a straightforward and user-friendly experience, simplifying interactions and reducing the learning curve.
+  
+  @Secure Data Storage: Utilizing the power of SQL Alchemy, the system ensures reliable and protected data storage, maintaining data integrity and confidentiality.
+                
 By leveraging the power of SQL Alchemy and Python, Thidas has created a versatile School Management System that promotes efficiency, transparency, and effective communication within educational institutions. Simplify your academic operations today with this robust CLI-based solution.
