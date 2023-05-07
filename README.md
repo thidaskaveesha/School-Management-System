@@ -20,7 +20,11 @@ With an intuitive interface and efficient data management capabilities, the Scho
 By leveraging the power of SQL Alchemy and Python, Thidas has created a versatile School Management System that promotes efficiency, transparency, and effective communication within educational institutions. Simplify your academic operations today with this robust CLI-based solution.
 
 # How-to-run 
+  
   @ step-1 : You need to install python interpreter to the operatng system. 
+  
   @ step-2 : Install SQL Alchemy package using 'pip install sqlalchemy' command. 
+  
   @ step-4 : In the extention.py file you can see a url variable where you have to give the database link.
+  
   @ step-4 : That's it you good to go run main.py to start navigation through out the system.
