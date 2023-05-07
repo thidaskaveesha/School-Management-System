@@ -5,16 +5,22 @@ The system revolves around two primary roles, namely students and teachers. User
 
 With an intuitive interface and efficient data management capabilities, the School Management System simplifies administrative tasks and enhances communication between students and teachers. Its seamless integration with SQL Alchemy ensures reliable and secure data storage, retrieval, and updating.
 
-Key Features:
+# Key Features:
 
-  @User Roles: The system provides two main roles, students and teachers, allowing each user type to access role-specific functionalities.
+  @ User Roles: The system provides two main roles, students and teachers, allowing each user type to access role-specific functionalities.
   
-  @User Registration: Users can easily register their roles within the system, enabling them to utilize its features efficiently.
+  @ User Registration: Users can easily register their roles within the system, enabling them to utilize its features efficiently.
   
-  @Data Management: Perform essential operations such as data retrieval, insertion, modification, and deletion, ensuring accurate and up-to-date information within the    system.
+  @ Data Management: Perform essential operations such as data retrieval, insertion, modification, and deletion, ensuring accurate and up-to-date information within the    system.
   
-  @Seamless Interface: The CLI interface provides a straightforward and user-friendly experience, simplifying interactions and reducing the learning curve.
+  @ Seamless Interface: The CLI interface provides a straightforward and user-friendly experience, simplifying interactions and reducing the learning curve.
   
-  @Secure Data Storage: Utilizing the power of SQL Alchemy, the system ensures reliable and protected data storage, maintaining data integrity and confidentiality.
+  @ Secure Data Storage: Utilizing the power of SQL Alchemy, the system ensures reliable and protected data storage, maintaining data integrity and confidentiality.
                 
 By leveraging the power of SQL Alchemy and Python, Thidas has created a versatile School Management System that promotes efficiency, transparency, and effective communication within educational institutions. Simplify your academic operations today with this robust CLI-based solution.
+
+# How-to-run 
+  @ step-1 : You need to install python interpreter to the operatng system. 
+  @ step-2 : Install SQL Alchemy package using 'pip install sqlalchemy' command. 
+  @ step-4 : In the extention.py file you can see a url variable where you have to give the database link.
+  @ step-4 : That's it you good to go run main.py to start navigation through out the system.
